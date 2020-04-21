@@ -1,0 +1,13 @@
+C:\Users\Chris\Documents\GC bootcamp\week1\Day1 Room Calculator\Day1 Room Calculator\obj\Debug\netcoreapp3.1\Day1 Room Calculator.csprojAssemblyReference.cache
+C:\Users\Chris\Documents\GC bootcamp\week1\Day1 Room Calculator\Day1 Room Calculator\obj\Debug\netcoreapp3.1\Day1 Room Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\GC bootcamp\week1\Day1 Room Calculator\Day1 Room Calculator\obj\Debug\netcoreapp3.1\Day1 Room Calculator.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\GC bootcamp\week1\Day1 Room Calculator\Day1 Room Calculator\obj\Debug\netcoreapp3.1\Day1 Room Calculator.AssemblyInfo.cs
+C:\Users\Chris\Documents\GC bootcamp\week1\Day1 Room Calculator\Day1 Room Calculator\bin\Debug\netcoreapp3.1\Day1 Room Calculator.exe
+C:\Users\Chris\Documents\GC bootcamp\week1\Day1 Room Calculator\Day1 Room Calculator\bin\Debug\netcoreapp3.1\Day1 Room Calculator.deps.json
+C:\Users\Chris\Documents\GC bootcamp\week1\Day1 Room Calculator\Day1 Room Calculator\bin\Debug\netcoreapp3.1\Day1 Room Calculator.runtimeconfig.json
+C:\Users\Chris\Documents\GC bootcamp\week1\Day1 Room Calculator\Day1 Room Calculator\bin\Debug\netcoreapp3.1\Day1 Room Calculator.runtimeconfig.dev.json
+C:\Users\Chris\Documents\GC bootcamp\week1\Day1 Room Calculator\Day1 Room Calculator\bin\Debug\netcoreapp3.1\Day1 Room Calculator.dll
+C:\Users\Chris\Documents\GC bootcamp\week1\Day1 Room Calculator\Day1 Room Calculator\bin\Debug\netcoreapp3.1\Day1 Room Calculator.pdb
+C:\Users\Chris\Documents\GC bootcamp\week1\Day1 Room Calculator\Day1 Room Calculator\obj\Debug\netcoreapp3.1\Day1 Room Calculator.dll
+C:\Users\Chris\Documents\GC bootcamp\week1\Day1 Room Calculator\Day1 Room Calculator\obj\Debug\netcoreapp3.1\Day1 Room Calculator.pdb
+C:\Users\Chris\Documents\GC bootcamp\week1\Day1 Room Calculator\Day1 Room Calculator\obj\Debug\netcoreapp3.1\Day1 Room Calculator.genruntimeconfig.cache
